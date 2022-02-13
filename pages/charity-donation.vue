@@ -11,8 +11,8 @@
       <h2>Life Issues Addiction Recovery - Heartland Baptist Fellowship</h2>
       <p>Life Issues is a Christ-centered addiction recovery program, whose mission statement is:
         Helping, saving, and freeing the addicted, by the Spirit of the Lord (based on Luke 4:18-19)</p>
+      <a class="button" target="_blank" rel=”noopener” href="http://www.lifeissuesonline.org/p/mission.html">Life Issues' Mission</a>
       <a class="button" target="_blank" rel=”noopener” href="https://forms.ministryforms.net/viewForm.aspx?formId=e6a2df33-a9cf-4189-bf6b-7f162d869b9b">Donate to Life Issues Addiction Recovery</a>
-      <a class="button" target="_blank" rel=”noopener” href="http://www.lifeissuesonline.org/p/mission.html">Mission</a>
             
       <h2>Joshua House - Two Rules Ministrities</h2>
       <p>Our mission is to help men discover, seek, and fulfill God's purpose for their lives,
