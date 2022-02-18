@@ -4,7 +4,7 @@
       <Nav />
     </div>
     <div class="section details">
-      <h1 class="title">Gallery</h1>
+      <h1 class="title">Photo Album</h1>
       <p>Click on a picture to expand it</p>
       <CoolLightBox 
         :items="images" 
