@@ -5,6 +5,7 @@
     </div>
     <div class="section details">
       <h1 class="title">Gallery</h1>
+      <h2>Click on a picture to expand it</h2>
       <CoolLightBox 
         :items="images" 
         :index="index"

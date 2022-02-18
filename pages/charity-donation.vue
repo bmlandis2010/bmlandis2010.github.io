@@ -4,7 +4,7 @@
       <Nav />
     </div>
     <div class="section details">
-      <h1 class="title">Charity Donations</h1>
+      <h1 class="title">Suggested Donations</h1>
 
       <p>Instead of flowers, please consider making a donation to one of the following charities that were important to Sean:</p>
 
